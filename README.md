@@ -25,7 +25,7 @@ This project is a Java-based implementation of the classic Tic Tac Toe game for 
 * Handles the main game loop, player turns, input validation, and win/draw logic.
 
 * Implements methods to:
-* 
+  
 * Read player move input.
 
 * Validate positions.
