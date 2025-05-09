@@ -4,7 +4,7 @@ This project is a Java-based implementation of the classic Tic Tac Toe game for 
 -------------------------------------------------------------------------------------------------------------------------------------
 📌 Key Components:-
 
-* Board Class (Board.java)
+1) Board Class (Board.java):
 
 * Manages the game grid.
 
@@ -12,7 +12,7 @@ This project is a Java-based implementation of the classic Tic Tac Toe game for 
 
 * Provides a method to print the current board configuration.
 ---------------------------------------------------------------------------------------------
-1) Player Class (Player.java):
+2) Player Class (Player.java):
 
 * Stores and manages player information such as:
 
@@ -20,7 +20,7 @@ This project is a Java-based implementation of the classic Tic Tac Toe game for 
 
 * Includes methods to set and retrieve player details and symbols.
 -----------------------------------------------------------------------------------------------
-2) Game Class (Game.java):
+3) Game Class (Game.java):
    
 * Handles the main game loop, player turns, input validation, and win/draw logic.
 
@@ -34,7 +34,7 @@ This project is a Java-based implementation of the classic Tic Tac Toe game for 
 
 * Display the board after each move.
 ---------------------------------------------------------------------------------------------
-3) App Class (Main Entry Point) (App.java):
+4) App Class (Main Entry Point) (App.java):
    
 * Sets up the game by:Creating the board.
 
